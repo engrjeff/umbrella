@@ -13,6 +13,7 @@ dist
 dist-ssr
 dev-dist
 coverage
+.env
 *.local
 
 /cypress/videos/
